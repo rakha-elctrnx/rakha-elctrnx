@@ -1,4 +1,4 @@
-## Welcome to My Github Repo!😎😁
+## Welcome to My Github Repo!
 
 - 👋 Hi, I’m Bagas Rakha!
 - 👀 I’m interested in PHP & Javascript
