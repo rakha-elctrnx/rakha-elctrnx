@@ -19,9 +19,6 @@
 
 ### My Top Frameworks / Library
 
-<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" alt="Codeigniter" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" />
-<img align="left" alt="Vue Js" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" />
-<img align="left" alt="Jquery" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="Laravel" height="150px" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
+<img align="left" alt="Next Js" width="150px" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
+<img align="left" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
