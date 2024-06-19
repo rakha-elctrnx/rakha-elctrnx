@@ -23,6 +23,8 @@
 <img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
 <img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
 
+<br><br>
+
 <p align="left">
   <a href="https://github.com/rakha-elctrnx"><img src="https://github-readme-stats.vercel.app/api?username=rakha-elctrnx&hide_border=true&show_icons=true" alt="Rakha's github stats"></a>
 </p>
