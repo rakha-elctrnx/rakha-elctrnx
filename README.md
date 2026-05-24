@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Bagas Rakha! 👋</h1>
-<h3 align="center">Full Stack Web Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakha-elctrnx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="rakha-elctrnx" />
@@ -46,20 +46,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakha-elctrnx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakha's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakha-elctrnx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rakha-elctrnx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakha's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rakha-elctrnx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakha-elctrnx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakha-elctrnx/rakha-elctrnx/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
 ---
@@ -70,11 +62,8 @@
   <a href="https://github.com/rakha-elctrnx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-rakha--elctrnx-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/bagasrakha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR_IG" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
