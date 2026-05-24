@@ -10,7 +10,7 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
 - 🔭 I'm currently working on **personal projects & open source contributions**
 - 🌱 Exploring **Golang**, **TypeScript**, and **backend architecture**
@@ -44,11 +44,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rakha-elctrnx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakha's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rakha-elctrnx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakha-elctrnx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
